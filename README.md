@@ -1,5 +1,6 @@
 <p align="center">
-  ![Banner](./Create a GitHub prof.png)
+![Banner](https://raw.githubusercontent.com/abhishekpatel9370/abhishekpatel9370/main/Create a GitHub profpng)
+
 </p>
 
 <h1 align="center">👋 Hi, I’m Abhisek Patel</h1>
