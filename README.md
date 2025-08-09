@@ -28,9 +28,12 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpatel9270&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhisekpatel9370&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisekpatel&layout=compact&theme=radical" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekpatel&theme=radical" alt="GitHub Streak" />
 
 ---
 
