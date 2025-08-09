@@ -8,11 +8,11 @@
 <h1 align="center">👋 Hi, I’m Abhisek Patel</h1>
 
 <p align="center">
-  🎓 Final Year B.Tech in <b>Electronics and Computer Engineering</b> at Shri Ramdeobaba College of Engineering and Management (Nagpur, India) <br>
-  💡 Passionate about <b>VLSI Design, FPGA Development, and Verification</b> <br>
-  🛠 Skilled in <b>SystemVerilog, C++ and Digital Design</b> <br>
-  🌱 Currently working on <b>OOP-based SystemVerilog Testbenches</b> <br>
-  🚀 Open to internships and collaborative projects
+🎓 Final Year B.Tech in <b>Electronics and Computer Engineering</b> at Shri Ramdeobaba College of Engineering and Management (Nagpur, India) <br>
+   Passionate about <b>VLSI Design, FPGA Development, and Verification</b> <br>
+   Skilled in <b>SystemVerilog, C++ and Digital Design</b> <br>
+   Currently working on <b>OOP-based SystemVerilog Testbenches</b> <br>
+   Open to internships and collaborative projects
 </p>
 
 ---
