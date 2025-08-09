@@ -22,19 +22,8 @@
 ---
 
 ## 📬 Contact
-- **Email:** [abhishekpatel9370@gmail.com 
-- **LinkedIn:** [https://www.linkedin.com/in/abhishek-patel-6b5428266/]
+- **Email:** abhishekpatel9370@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/abhishek-patel-6b5428266/
   
 ---
 
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhisekpatel9370&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisekpatel&layout=compact&theme=radical" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekpatel&theme=radical" alt="GitHub Streak" />
-
----
-
-<p align="center">⭐️ Feel free to explore my repositories and connect with me!</p>
