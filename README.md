@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Welcome+to+My+GitHub+Profile" alt="Profile Banner" />
+  ![Banner](./Create a GitHub prof.png)
 </p>
 
 <h1 align="center">👋 Hi, I’m Abhisek Patel</h1>
