@@ -18,7 +18,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** SystemVerilog, C++, Python  
+- **Languages:** SystemVerilog, C++, Verilog  
 - **Specialization:** Digital Design, Verification, FPGA  
 - **Tools:** ModelSim, Vivado, EDA Playground  
 
